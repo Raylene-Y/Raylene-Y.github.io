@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/"
                 />
@@ -22,6 +27,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="pt-br"
                 href="http://localhost:1313/pt-br/series/"
                 />
@@ -31,6 +41,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
